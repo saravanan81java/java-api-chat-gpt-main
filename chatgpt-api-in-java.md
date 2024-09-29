@@ -1,4 +1,4 @@
-# chatgpt-java-api# 🤖 How to use ChatGPT API in your Java application?
+# 🤖 How to use ChatGPT API in your Java application?
 
 tags: chatgpt, java, api
 
